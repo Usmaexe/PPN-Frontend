@@ -1,0 +1,62 @@
+/* custom.css */
+.bg-background {
+    background-color: hsl(var(--background));
+  }
+  
+  .bg-background-dark {
+    background-color: #2a2b2e; /* Vous pouvez remplacer par hsl si vous utilisez une variable CSS */
+  }
+  
+  .text-primary {
+    color: hsl(var(--primary));
+  }
+  
+  .text-primary-foreground {
+    color: hsl(var(--primary-foreground));
+  }
+  
+  .text-muted {
+    color: hsl(var(--muted));
+  }
+  
+  .text-muted-foreground {
+    color: hsl(var(--muted-foreground));
+  }
+  
+  .border-primary {
+    border-color: hsl(var(--primary));
+  }
+  
+  .border-muted {
+    border-color: hsl(var(--muted));
+  }
+
+  .bg-light {
+    background-color: #e6f7f9; /* Couleur de fond claire */
+  }
+  
+  .text-dark {
+    color: #000000; /* Couleur de texte sombre */
+  }
+  
+  .text-muted {
+    color: #6c757d; /* Couleur de texte atténuée */
+  }
+  
+  .border-light {
+    border-color: #dee2e6; /* Couleur de bordure claire */
+  }
+
+  .search-input {
+    background-color: white;
+  }
+
+  
+  .bg-blue-500 {
+    background-color: #1877F2;
+  }
+  
+  .text-white {
+    color: white;
+  }
+  
